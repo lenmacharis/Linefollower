@@ -7,19 +7,19 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: ESP32 (devkit v1)
 
-motors: 
+motors:  2 GA12-N20 
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: QTR-8A reflectance sensor array
 
-batteries:
+batteries: Lithium Batterij
 
-wireless communication:
+wireless communication:  ingebouwde bluetooth
 
-distance sensor - motors:
+distance sensor - motors: 6cm
 
 weight:
 
