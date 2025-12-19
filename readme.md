@@ -1,8 +1,7 @@
 # LineFollower
 
 
-
-![A description of my image](IMG_0676.jpeg)
+![IMG_0677](https://github.com/user-attachments/assets/1baba05b-7404-41f0-8a38-8a5da51869b4)
 
   
 ## specifications
